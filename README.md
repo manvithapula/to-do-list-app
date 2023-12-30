@@ -14,6 +14,7 @@ Stay organized and manage your tasks efficiently!
 2. Java
 
 **SCREENSHOTS**
- <img src="(https://github.com/manvithapula/to-do-list-app/assets/113161233/adc4fafb-f45d-4c21-9666-062e360e539a)" width="500" height="600">
+![Peach and Orange Watercolor Art Hand Line Phone Wallpaper (1)](https://github.com/manvithapula/to-do-list-app/assets/113161233/e07262cc-eb83-4c83-b524-0bf32d8fbe03)
+
 
 
